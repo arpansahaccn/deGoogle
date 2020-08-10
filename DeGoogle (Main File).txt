@@ -131,14 +131,18 @@
                         must be writeen on it .
 
                     2. Use Bitlocker for all drives in windows , in certain edditions of windows bitlocker is not for free then use Vercrypt and backup the key file.
-                       https://www.veracrypt.fr/en/Home.html
-                       https://youtu.be/C25VWAGl7Tw
+                        https://www.veracrypt.fr/en/Home.html
+                        https://youtu.be/C25VWAGl7Tw
 
                     3. Remove windows pre installed bloatware
                         https://www.youtube.com/results?search_query=how+to+remove+bloatware+from+windows+10
+                        Use Debloater script https://github.com/Sycnex/Windows10Debloater  and follow the instruction given above in the video
+                        WUB  https://www.sordum.org/downloads/?st-windows-update-blocker to disable windows update and later you can enable it as shown in the above
+                        mentioned youtube video.
 
                     4. Always disable telemetry settings and dont allow apps to use permisions that it should'nt .
                         https://www.youtube.com/results?search_query=how+to+turn+off+windows+10+telemetry+settings
+                        also use OOSU10 tool https://www.oo-software.com/en/shutup10 as mentioned in the above video
                          
 
                     5. Use Windows spyblocker like W10 Privacy
@@ -148,9 +152,9 @@
                     6. Set Bios user password and secure boot enable if possible.
 
                     7. Use Bleach Bit : BleachBit guards your privacy. 
-                       With BleachBit you can free cache, delete cookies, clear Internet history, shred temporary files, delete logs, and discard junk.
-                       https://www.bleachbit.org/
-                       https://www.youtube.com/watch?v=ifkO3z_LCVw
+                        With BleachBit you can free cache, delete cookies, clear Internet history, shred temporary files, delete logs, and discard junk.
+                        https://www.bleachbit.org/
+                        https://www.youtube.com/watch?v=ifkO3z_LCVw
 
                     8. Spoof your macaddress :
                         https://sguru.org/spoof-mac-address-windows-10/
@@ -206,5 +210,5 @@
 
 
 
-             A0-AF-BD-C7-56-55
+             
   
